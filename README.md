@@ -3,7 +3,7 @@
 
 ## Teste para candidato à vaga de Desenvolvedor Ruby on Rails
 
-Olá caro desenvolvedor esse é um teste para avaliar o seu conhecimento em programação.
+Olá desenvolvedor(a) esse é um teste para avaliar o seu conhecimento em programação.
 
 Criar uma aplicação com autenticação que permita cadastro e controle de usuários, cadastro e controle de produtos e categorias. Deve contar com ao menos dois níveis de usuário, sendo ‘admin’ e ‘operator’.
 
