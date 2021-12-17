@@ -30,4 +30,4 @@ Diferenciais:
 6) Disponibilizar a aplicação para acesso remoto
 7) Envio de emails de confirmação de cadastro e recuperar senha
 
-Enviar o link do respositório para ti@packid.com.br
+Enviar o link do respositório para ti@packid.com.br com o assunto "Vaga para Desenvolvedor Ruby on Rails"
